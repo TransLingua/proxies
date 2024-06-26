@@ -103,7 +103,6 @@ https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt
 "https://api.openproxylist.xyz/http.txt",
 "https://api.proxyscrape.com/v2/?request=getproxies&protocol=http",
     "https://api.proxyscrape.com/v2/?request=getproxies&protocol=https",
-    "https://openproxy.space/list/http",
     "https://proxyspace.pro/http.txt",
     "https://proxyspace.pro/https.txt",
     "https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/http.txt",
